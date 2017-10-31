@@ -1,0 +1,7 @@
+name: MyCraftGameModelAll
+main: com.mycraft.MyCraftGameModelAll.MyCraftGameModelAll
+version: 1.1
+author: Jessefjxm
+commands:
+  MyCraftGameModelAll:
+    description: MyCraftGameModelAll
